@@ -1,9 +1,7 @@
 # Project
 
 Exprement Name: Learning about science by doing science
- 
 Name Team : K
-
 Students Name: Elad Hazarie, Omer Sem-Tov, Tamar farkas
 
 This file includes:
